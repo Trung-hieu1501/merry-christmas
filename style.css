@@ -524,7 +524,7 @@ section{
     content: '';
     width: 20px;
     height: 100%;
-    background: rgb(255, 0, 98);
+    background: rgb(184,0,0);
     top: 0;
     left: 50%;
     transform: translateX(-50%);
@@ -602,7 +602,7 @@ section{
     content: '';
     width: 20px;
     height: 100%;
-    background: rgb(255,0,98);
+    background: rgb(184,0,0);
     top: 0;
     left: 50%;
     transform: translateX(-50%);
